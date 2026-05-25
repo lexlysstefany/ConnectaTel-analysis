@@ -7,7 +7,7 @@ El dataset incluye información de usuarios y registros de uso del servicio, pre
 
 ## Contenido del repositorio
 
-* `notebooks/connectatel_analysis.ipynb`
+* `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
   → Notebook principal con limpieza de datos, análisis exploratorio (EDA), histogramas, boxplots, segmentación de clientes y conclusiones de negocio.
 
 
@@ -19,7 +19,7 @@ El dataset incluye información de usuarios y registros de uso del servicio, pre
 
 ## Cómo reproducir el análisis
 
-1. Abre `notebooks/connectatel_analysis.ipynb`
+1. Abre `S7 Version-Estudiante-Project-ConnectaTel.ipynb`
 2. Ejecuta las celdas en orden.
 3. El notebook carga automáticamente los datasets desde la carpeta.
 
